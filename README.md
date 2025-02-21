@@ -9,7 +9,9 @@ Accepts user input and generates dynamic responses
 Simple and easy-to-use UI for interaction
 
 Technologies Used:
--Python (Flask for web framework)
--Transformers Library (Hugging Face for DialoGPT)
--PyTorch (For model inference)
--HTML, CSS, JavaScript (For the front-end, if applicable)
+- Python (Flask for web framework)
+- Transformers Library (Hugging Face for DialoGPT)
+- PyTorch (For model inference)
+- HTML, CSS, JavaScript (For the front-end, if applicable)
+
+
